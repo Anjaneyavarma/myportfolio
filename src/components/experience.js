@@ -20,17 +20,25 @@ const Experience = () => {
                 <div className="mt-2 pl-6">
                     <ul className="list-disc">
                         <li className="mb-1">
-                            <p>Design and development of user-facing web applications by creating visually and user-friendly interfaces using React, Vanilla JS,
-                                reusable Micro-Front-ends.</p>
+                            <p>My roles and responsibilities includes design and developmentof scalable web/software applications
+                            of the Synchrony Digital Payment Gateway and E-commerce Hosted Solutions</p>
                         </li>
                         <li>
-                            <p>Design and Developing Java based back-end applications by building and maintaining server logic using Spring Framework, J2EE,
-                                Spring boot, reusable Micro-services, Restful Web-service</p>
+                            <p>Design and developmentof user-facing web applications by creating user-friendly interfaces using
+                            React with reusable MicroFrontends.</p>
+                        </li>
+                        <li>
+                            <p>Design and Developing Java based back-end applications by building and maintaining server logic
+                            using Spring Framework, J2EE, Spring boot, reusable Micro-services, Restful Web-services.</p>
+                        </li>
+                        <li>
+                            <p>Optimized the application’s performance by implementing caching and using memory-efficient data
+                            structures.</p>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div className=''>
+            <div className='mb-10'>
                 <a href="https://www.tcs.com/" target="_blank" className=''>
                     <h1 className='flex flex-row items-center font-medium text-green-600 text-2xl'>Tata Consultancy Services
                         <AiOutlineLink className='ml-2'/>
@@ -40,12 +48,29 @@ const Experience = () => {
                     <div className="mt-2 pl-6">
                         <ul className="list-disc">
                             <li className="mb-1">
-                                <p>Design and development of user-facing web applications by creating visually and user-friendly interfaces using React, Vanilla JS,
-                                    reusable Micro-Front-ends.</p>
+                                <p>My roles and responsibilities included software development, debugging, testing, and Optimizing the
+                                    performance of software applications, Analysis, Documentation and Design of the Claim Software Applications related to the claim system for auto and property losses</p>
                             </li>
                             <li>
                                 <p>Design and Developing Java based back-end applications by building and maintaining server logic using Spring Framework, J2EE,
                                     Spring boot, reusable Micro-services, Restful Web-service</p>
+                            </li>
+                        </ul>
+                    </div>
+                </a>
+                <p></p>
+            </div>
+            <div className='mb-10'>
+                <a href="https://www.tcs.com/" target="_blank" className=''>
+                    <h1 className='flex flex-row items-center font-medium text-green-600 text-2xl'>Microsoft Student Partner
+                        <AiOutlineLink className='ml-2'/>
+                    </h1>
+                    <p className="text-base">Student Partner<span className="text-sm italic font-light"> May 2017 - June 2018</span></p>
+                    <div className="mt-2 pl-6">
+                        <ul className="list-disc">
+                            <li className="mb-1">
+                                <p>Drove Usage of Microsoft technologies and programsto students and educators by conducting workshops
+                                and seminars to Engineering Colleges.</p>
                             </li>
                         </ul>
                     </div>

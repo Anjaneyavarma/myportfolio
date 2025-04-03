@@ -11,7 +11,7 @@ const Header = () => {
         <React.Fragment>
             <div>
                 <h1 className='text-4xl font-bold sm:text-5xl'>Anjaneya varma</h1>
-                <h2 className='font-medium tracking-tight mt-3 sm:text-xl'>Java Full Stack Developer 👨🏻‍💻</h2>
+                <h2 className='font-medium tracking-tight mt-3 sm:text-xl'>Full Stack Developer 👨🏻‍💻</h2>
                 <p className='mt-4 font-normal leading-normal max-w-sm'>Experienced Software Engineer with a focus on building engaging & accessible digital experiences</p>
             </div>
             <div className='mt-7 border-r-2 border-b-2 border-green-500 rounded-2xl h-56 max-w-44'>

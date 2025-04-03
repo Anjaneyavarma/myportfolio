@@ -4,6 +4,7 @@ import { DiJsBadge } from "react-icons/di";
 import { DiReact } from "react-icons/di";
 import { DiMysql } from "react-icons/di";
 import { DiGit } from "react-icons/di";
+import { FaDocker, FaHtml5, FaSitemap } from "react-icons/fa";
 
 
 const About = () =>{
@@ -38,9 +39,9 @@ const About = () =>{
                 <div>
                     <p className='flex items-center text-sm mb-5'><AiOutlineJava className='text-xl mr-2 text-green-600'/> Spring Boot</p>
                     <p className='flex items-center text-sm mb-5'><DiJsBadge className='text-xl mr-2 text-green-600'/> Kafka</p>
-                    <p className='flex items-center text-sm mb-5'><DiReact className='text-xl mr-2 text-green-600'/> Docker</p>
-                    <p className='flex items-center text-sm mb-5'><DiMysql className='text-xl mr-2 text-green-600'/> HTML, CSS</p>
-                    <p className='flex items-center text-sm mb-5'><DiGit className='text-xl mr-2 text-green-600'/> System architecture</p>
+                    <p className='flex items-center text-sm mb-5'><FaDocker className='text-xl mr-2 text-green-600'/> Docker</p>
+                    <p className='flex items-center text-sm mb-5'><FaHtml5 className='text-xl mr-2 text-green-600'/> HTML, CSS</p>
+                    <p className='flex items-center text-sm mb-5'><FaSitemap className='text-xl mr-2 text-green-600'/> System architecture</p>
                 </div>
             </div>
         </React.Fragment>
